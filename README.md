@@ -1,0 +1,36 @@
+Página 1: Home 
+
+A página Home vai dar as boas-vindas aos visitantes e apresentar uma visão geral do universo da mitologia grega. Ela trará destaques de todas as outras seções do site, uma linha do tempo simplificada com as grandes eras mitológicas e uma navegação bem visual para guiar o leitor pelos tópicos mais interessantes.
+
+Página 2: Origem do Universo (A Teogonia, o Caos, os Titãs e como o mundo foi criado)
+
+A página Origem do Universo abordará a criação do mundo segundo a Teogonia de Hesíodo. O conteúdo vai explicar como o universo surgiu a partir do Caos inicial e detalhar a ascensão dos deuses primordiais como Gaia e Urano, seguida pelo domínio dos Titãs liderados por Cronos e a profecia que levaria à sua queda.
+
+
+Página 3: Os Deuses do Olimpo (Os 12 principais deuses olímpicos, seus poderes e símbolos)
+
+A página Os Deuses do Olimpo será totalmente dedicada aos doze deuses principais que governavam o mundo a partir do Monte Olimpo. Cada divindade terá uma apresentação detalhada com seus domínios, símbolos sagrados, personalidades, árvores genealógicas e o papel que desempenhavam no cotidiano e nos cultos dos antigos gregos.
+
+
+Página 4: Grandes Guerras e Conflitos (Titanomaquia, Gigantomaquia e a Guerra de Troia)
+
+A página Grandes Guerras e Conflitos vai narrar os confrontos lendários que moldaram o cosmos e a história da Grécia Antiga. O leitor vai acompanhar os detalhes da Titanomaquia, a guerra contra os Gigantes e a célebre Guerra de Tróia, destacando os motivos, os momentos decisivos e os deuses que tomaram partido em cada batalha.
+
+
+Página 5: Criaturas e Seres Mitológicos (Monstros, ninfas, centauros, minotauros, gorgónias)
+
+A página Criaturas e Seres Mitológicos explorará a rica fauna e os monstros da tradição grega. O texto descreverá o papel e as origens de seres fantásticos como o Minotauro, a Medusa, os Centauros, as Ninfas e as Sereias, mostrando como essas criaturas serviam como desafios para os mortais ou como personificações das forças da natureza.
+
+
+
+Página 6: Heróis e Mitos (Hércules, Perseu, Teseu e as lendas mais conhecidas)
+
+A página Heróis e Mitos fechará o site contando os feitos épicos dos maiores semideuses e mortais da mitologia, como Hércules e seus doze trabalhos, Perseu e Teseu. Além disso, trará as lendas morais mais famosas da cultura grega, como a história da Caixa de Pandora, o mito de Ícaro e a lenda de Narciso.
+
+Página 7: Desenvolvedores 
+
+
+
+
+
+
